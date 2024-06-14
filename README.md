@@ -16,3 +16,8 @@ python3 -m pip install -r requirements.txt
 <samp>
   <h1>How to Running!</h1>
 </samp>
+
+
+```
+python3 main.py
+```
