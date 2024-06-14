@@ -31,4 +31,6 @@ $ python3 main.py
 
 <img src="https://raw.githubusercontent.com/MadExploits/password-generator/main/Screenshot%202024-06-15%20024024.png">
 
-Copyright (c) 2023 MadExploits
+<samp>
+  Copyright (c) 2023 MadExploits
+</samp>
