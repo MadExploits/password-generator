@@ -10,7 +10,9 @@
 </samp>
 
 ```
-python3 -m pip install -r requirements.txt
+$ git clone https://github.com/MadExploits/password-generator.git
+$ cd password-generator
+$ python3 -m pip install -r requirements.txt
 ```
 
 <samp>
@@ -19,5 +21,5 @@ python3 -m pip install -r requirements.txt
 
 
 ```
-python3 main.py
+$ python3 main.py
 ```
