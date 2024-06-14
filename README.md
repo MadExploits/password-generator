@@ -25,7 +25,7 @@ $ python3 main.py
 ```
 
 <samp>
-  <h1>Screenshots</h1>
+  <h1>Screenshots!</h1>
 </samp>
 
 
