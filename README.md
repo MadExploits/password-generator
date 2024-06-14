@@ -23,3 +23,10 @@ $ python3 -m pip install -r requirements.txt
 ```
 $ python3 main.py
 ```
+
+<samp>
+  <h1>Screenshots</h1>
+</samp>
+
+
+<img src="https://raw.githubusercontent.com/MadExploits/password-generator/main/Screenshot%202024-06-15%20024024.png">
