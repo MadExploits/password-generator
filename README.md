@@ -2,5 +2,5 @@
   <h1>Password Generator for Burpsuite Intruder!</h1>
   <p align="center"> Requirements Python3! </p>
   
-  <samp align="left">asd</samp>
+  <samp>Hello There is the tool for making a list of password by username, this should be working on Burpsuite intruder or Any Bruteforcer Tools.</samp>
 </div>
