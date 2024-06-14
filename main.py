@@ -111,7 +111,7 @@ class pwgen:
                         passwords.append(up.format(user, self.satukanweb(websites)))
                         passwords.append(up.format(user, self.pecah_web(websites)))
 
-        with open('/usr/share/wordlists/password.txt', 'r') as r:
+        with open('wordlists/password.txt', 'r') as r:
             passwords.extend(r.read().split("\n"))
 
         return passwords
